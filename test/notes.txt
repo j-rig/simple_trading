@@ -1,0 +1,5 @@
+
+Python For Finance - "Close Near Low" Trading Strategy Backtest
+https://youtu.be/d3PqpaOb_Gs
+
+coding with russ
